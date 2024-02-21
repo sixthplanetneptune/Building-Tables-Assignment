@@ -26,7 +26,7 @@
                 <td>6.1" display, 256GB storage, 12MP camera</td>
             </tr>
             <tr>
-                <td>Phone B</td>
+                <td rowspan="2">Phone B</td>
                 <td colspan="2">$899</td>
                 <td>6.5" display, 512GB storage, 16MP camera</td>
             </tr>
