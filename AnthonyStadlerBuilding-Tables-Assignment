@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smartphone Comparison</title>
+</head>
+<body>
+    <table border="1">
+        <caption>Smartphone Comparison</caption>
+        <thead>
+            <tr>
+                <th>Phone Model</th>
+                <th>Price (USD)</th>
+                <th>Features</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">Phone A</td>
+                <td>$699</td>
+                <td>5.8" display, 128GB storage, 12MP camera</td>
+            </tr>
+            <tr>
+                <td>$799</td>
+                <td>6.1" display, 256GB storage, 12MP camera</td>
+            </tr>
+            <tr>
+                <td>Phone B</td>
+                <td colspan="2">$899</td>
+                <td>6.5" display, 512GB storage, 16MP camera</td>
+            </tr>
+            <tr>
+                <td>Phone C</td>
+                <td>$999</td>
+                <td>6.7" display, 1TB storage, 20MP camera</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Conclusions:</h2>
+    <ul>
+        <li>Phone C offers the highest storage capacity and camera resolution among the smartphones listed.</li>
+        <li>Phone A provides options for different storage capacities at varying prices.</li>
+        <li>Phone B offers a large display size and ample storage capacity but is priced higher compared to others.</li>
+    </ul>
+</body>
+</html>
